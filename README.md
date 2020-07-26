@@ -1,7 +1,7 @@
 # Photo-Album-Viewer
 
 ### Overview 
-This project was created for a homework assignment for my CS 2110 Software Development Methods course. This assignment built off previous homework assignments where we practiced object-oriented programming principles, JUnit testing, hashCodes, inheritance with an abstract classes, and comparable interfaces. For this project we implemented a GUI to the PhotoLibrary file by creating the PhotoViewer class. The GUI displays a set of five photos that you can scroll through, rate each picture from 1-5, and sort by caption, date or rating.  
+This project was created for a homework assignment for my CS 2110 Software Development Methods course. This assignment built off previous homework assignments where we practiced object-oriented programming principles, JUnit testing, hashCodes, inheritance with abstract classes, and comparable interfaces. For this project we implemented a GUI to the PhotoLibrary file by creating the PhotoViewer class. The GUI displays a set of five photos that you can scroll through, rate each picture from 1-5, and sort by caption, date or rating.  
 
 ### Project Status 
 The files listed are the ones that were submmitted for grading and no more work has been done since.    
