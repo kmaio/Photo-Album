@@ -13,8 +13,7 @@ The files listed are the ones that were submmitted for grading and no more work 
 * JUnit 
 
 ### Screenshot of GUI 
-![Screenshot] (Screen Shot 2019-11-08 at 9.14.18 PM.png)
-Format: ![Alt Text]("Screen Shot 2019-11-08 at 9.14.18 PM.png")
+![Alt Text](https://user-images.githubusercontent.com/60328293/88489717-fe193c00-cf63-11ea-8d05-18fb2295f956.png)
 
 ### How to Use
 Launch the GUI interface from the PhotoViewer class. 
