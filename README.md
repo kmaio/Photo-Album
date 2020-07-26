@@ -32,3 +32,8 @@ The files listed are the ones that were submmitted for grading and no more work 
 
 ### Authors 
 This project was created by myself.
+
+#### NOTE
+* Add screenshot 
+* Add hw 4 guidelines / GUI features
+* Add How to use 
